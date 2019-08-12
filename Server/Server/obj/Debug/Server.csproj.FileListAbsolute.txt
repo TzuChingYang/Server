@@ -1,0 +1,15 @@
+\\Mac\Home\Desktop\子慶\大三大四專題\Git\Server\Server\Server\bin\Debug\Server.exe.config
+\\Mac\Home\Desktop\子慶\大三大四專題\Git\Server\Server\Server\bin\Debug\Server.exe
+\\Mac\Home\Desktop\子慶\大三大四專題\Git\Server\Server\Server\bin\Debug\Server.pdb
+\\Mac\Home\Desktop\子慶\大三大四專題\Git\Server\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\子慶\大三大四專題\Git\Server\Server\Server\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Desktop\子慶\大三大四專題\Git\Server\Server\Server\obj\Debug\App.g.cs
+\\Mac\Home\Desktop\子慶\大三大四專題\Git\Server\Server\Server\obj\Debug\Server_MarkupCompile.cache
+\\Mac\Home\Desktop\子慶\大三大四專題\Git\Server\Server\Server\obj\Debug\Server_MarkupCompile.lref
+\\Mac\Home\Desktop\子慶\大三大四專題\Git\Server\Server\Server\obj\Debug\MainWindow.baml
+\\Mac\Home\Desktop\子慶\大三大四專題\Git\Server\Server\Server\obj\Debug\Server.g.resources
+\\Mac\Home\Desktop\子慶\大三大四專題\Git\Server\Server\Server\obj\Debug\Server.Properties.Resources.resources
+\\Mac\Home\Desktop\子慶\大三大四專題\Git\Server\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\子慶\大三大四專題\Git\Server\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\子慶\大三大四專題\Git\Server\Server\Server\obj\Debug\Server.exe
+\\Mac\Home\Desktop\子慶\大三大四專題\Git\Server\Server\Server\obj\Debug\Server.pdb
